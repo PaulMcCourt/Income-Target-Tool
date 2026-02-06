@@ -16,3 +16,17 @@
 
 
 
+\### 2/5
+
+* Created a county selector map using filters
+* Created a bar chart based on the selected county
+* Created basic KPI comparing the county expenses against state expenses
+* Created skeleton Dashboard 1
+
+
+
+\### 2/6
+
+* Consolidated dashboards into a single view
+* Combined State and County selectors to toggle back and forth
+* Formatted State and County selectors
