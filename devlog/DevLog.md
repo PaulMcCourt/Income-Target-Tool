@@ -30,3 +30,11 @@
 * Consolidated dashboards into a single view
 * Combined State and County selectors to toggle back and forth
 * Formatted State and County selectors
+
+
+
+\### 2/9
+
+* Reformatted the dashboard into floating containers
+* Adjusted canvas sizing
+* Added selector sidebar
