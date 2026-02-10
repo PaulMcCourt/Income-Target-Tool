@@ -38,3 +38,11 @@
 * Reformatted the dashboard into floating containers
 * Adjusted canvas sizing
 * Added selector sidebar
+
+
+
+\### 2/10
+
+* Formatted the selector bars and map
+* Fixed a parameter issue
+* Structured the dashboard more
