@@ -46,3 +46,11 @@
 * Formatted the selector bars and map
 * Fixed a parameter issue
 * Structured the dashboard more
+
+
+
+\### 2/11
+
+* Added button control to state and county selection
+* Re-architected state and county UI
+* Formatted donut chart and monthlyannually selector
