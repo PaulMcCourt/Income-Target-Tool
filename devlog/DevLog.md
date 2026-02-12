@@ -54,3 +54,13 @@
 * Added button control to state and county selection
 * Re-architected state and county UI
 * Formatted donut chart and monthlyannually selector
+
+
+
+\### 2/12
+
+* Reconfigured selector setup to appear and disappear as selected
+* Consolidated and fixed county KPI
+* Added breakdown table
+* Standardized donut chart
+* Formatted header of dashboard
