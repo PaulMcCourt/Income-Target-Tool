@@ -64,3 +64,9 @@
 * Added breakdown table
 * Standardized donut chart
 * Formatted header of dashboard
+
+
+
+\### 2/17
+
+* Styled and formatted the final dashboard for V1
