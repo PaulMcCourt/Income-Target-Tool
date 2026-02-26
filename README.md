@@ -29,9 +29,12 @@ Users can explore required income across the United States by filtering on:
 
 The dashboard empowers users to compare required income, expense distributions, and cost of living across different states and counties side by side.
 
-	![alt text](images/DashboardInputs.png)
+![](Images/DashboardInputs.png)
 
-<image-card alt="Dashboard Inputs" src="./images/DashboardInputs.png" ></image-card>
+
+
+
+![Dashboard Results](https://raw.githubusercontent.com/PaulMcCourt/Income-Target-Tool/main/images/Dashboardresults.png)
 
 ---
 
