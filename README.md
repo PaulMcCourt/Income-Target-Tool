@@ -32,8 +32,6 @@ The dashboard empowers users to compare required income, expense distributions, 
 
 ![Dashboard Results](https://raw.githubusercontent.com/PaulMcCourt/Income-Target-Tool/main/images/Dashboardresults.png)
 
-![Dashboard Results](https://raw.githubusercontent.com/PaulMcCourt/Income-Target-Tool/main/images/Dashboardresults.png)
-
 ---
 
 ## 🛠️ Tools Used
