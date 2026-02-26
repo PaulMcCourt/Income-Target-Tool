@@ -109,9 +109,34 @@ metro area is a reasonable proxy.
 
 ## 📁 Data Source
 
-Based on the **Economic Policy Institute (EPI) Family Budget Calculator**, which provides cost of living estimates across U.S. metro and non-metro areas for families of different sizes.
+This project is built on the **Economic Policy Institute (EPI) Family Budget 
+Calculator (2025)**, which estimates the income a family needs to attain a 
+modest yet adequate standard of living in communities across the United States.
 
 🔗 [EPI Family Budget Dataset](https://www.epi.org/resources/budget/)
+
+Rather than relying on a single source, EPI synthesizes data from multiple 
+authoritative federal and research institutions across seven cost categories:
+
+| Category | Source(s) |
+|---|---|
+| 🏠 Housing | HUD Fair Market Rents, derived from multi-year American Community Survey data |
+| 🍎 Food | USDA Official Food Plans, adjusted for local cost differences via Feeding America's Map the Meal Gap |
+| 👶 Childcare | Dept. of Labor National Database of Childcare Prices + Child Care Aware of America; gaps filled with rent-based proxies |
+| 🚗 Transportation | Center for Neighborhood Technology Housing + Transportation Index, Consumer Expenditure Survey |
+| 🏥 Healthcare | Kaiser Family Foundation + HHS Marketplace (premiums); AHRQ (out-of-pocket costs) |
+| 💰 Taxes | NBER TAXSIM microsimulation model using local tax rates and household structure |
+| 🛒 Other Necessities | BLS Consumer Expenditure Survey (apparel, personal care, household supplies) |
+
+### Methodology
+
+EPI constructs the budget estimates through a five-step process:
+
+1. Defines family archetypes ranging from a single adult to two adults with up to four children
+2. Gathers cost components for each category from the sources listed above
+3. Standardises geography to U.S. counties and metropolitan areas
+4. Aggregates all cost components into a total required budget per family type per area
+5. Adjusts all figures for inflation to reflect 2025 dollar values
 
 ---
 
