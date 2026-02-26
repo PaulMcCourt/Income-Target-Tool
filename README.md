@@ -144,6 +144,6 @@ EPI constructs the budget estimates through a five-step process:
 ## 👤 Author
 
 **Paul McCourt**
-🔗 [LinkedIn](#) | 🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/paul.mccourt)
+🔗 [LinkedIn](https://www.linkedin.com/in/paul-mccourt-03b643142/)) | 🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/paul.mccourt)
 ```
 
