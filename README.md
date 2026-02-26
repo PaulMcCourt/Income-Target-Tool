@@ -1,5 +1,5 @@
 
-```markdown
+
 # 💰 How Much to Live Where — Income Target Tool
 
 Interactive Tableau dashboard designed to estimate required income based on state and family structure.
@@ -70,7 +70,7 @@ Based on the **Economic Policy Institute (EPI) Family Budget Calculator**, which
 
 *Coming soon — actionable guidance for job seekers and those considering relocation.*
 
----
+
 
 ## 👤 Author
 
