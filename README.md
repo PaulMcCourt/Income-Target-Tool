@@ -32,16 +32,26 @@ The dashboard empowers users to compare required income, expense distributions, 
 
 ![Dashboard Results](https://raw.githubusercontent.com/PaulMcCourt/Income-Target-Tool/main/images/Dashboardresults.png)
 
+
+## 📊 Executive Summary
+
+Where you live and how many people you support are two of the most 
+consequential financial variables a household faces — yet most salary 
+conversations ignore both.
+
+This tool draws on the EPI's 2025 Family Budget Calculator to make 
+those variables tangible and comparable. A family of four in Mississippi 
+needs roughly $84,000 to cover modest living costs. The same family in 
+Washington D.C. needs nearly $156,000 — an $71,000 gap for an identical 
+lifestyle. Each additional child adds around $16,000–$21,000 to 
+annual costs nationally, with single-parent households facing 
+disproportionately higher burdens relative to income.
+
+Rather than presenting a single conclusion, this dashboard is designed 
+for exploration — allowing job seekers, families considering relocation, 
+and anyone negotiating a salary to interrogate the data on their own terms.
+
 ---
-
-## 🛠️ Tools Used
-
-| Tool | Purpose |
-|---|---|
-| Tableau Public | Dashboard design and interactive visualisation |
-| Microsoft Excel | Data cleaning and preparation |
-| Git / GitHub | Version control and project documentation |
-
 ---
 
 ## 📁 Data Source
@@ -52,11 +62,7 @@ Based on the **Economic Policy Institute (EPI) Family Budget Calculator**, which
 
 ---
 
-## 📊 Executive Summary
 
-*Coming soon — key findings and takeaways from the analysis.*
-
----
 
 ## 🔍 Insights Deep Dive
 
