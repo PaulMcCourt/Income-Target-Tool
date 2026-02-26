@@ -1,4 +1,3 @@
-Great start — there's solid content here, just needs structure and proper Markdown syntax throughout. Here's the fully formatted version:
 
 ```markdown
 # 💰 How Much to Live Where — Income Target Tool
@@ -79,14 +78,3 @@ Based on the **Economic Policy Institute (EPI) Family Budget Calculator**, which
 🔗 [LinkedIn](#) | 🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/paul.mccourt)
 ```
 
----
-
-A few things I changed and why:
-
-The `#Tools Used` heading was missing the `##` prefix and the space after `#`, so it wouldn't have rendered as a heading at all. I also converted your tools list into a table, which looks much more polished and is a common pattern in professional READMEs.
-
-The bullet points under the overview section weren't rendering correctly because they lacked a blank line above them — Markdown needs that gap to know a list is starting.
-
-I turned the three placeholder sections (Executive Summary, Insights Deep Dive, Recommendations) into proper `##` headings with placeholder text. When you're ready to fill those in, just replace the italicised *Coming soon* lines.
-
-Make sure to swap the `[LinkedIn](#)` placeholder for your actual LinkedIn URL before publishing. That's a small detail hiring managers will definitely click on.
